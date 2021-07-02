@@ -1,6 +1,1 @@
-Media Art/Future Game Designer @Sogang University (Grad Student)
-
-<!---
-orca-nox/orca-nox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meet me at my notion blog: https://www.notion.so/orca-nox/Orca-Nox-Kris-Jung-53977b2269704a2caec3720a05286b0a
